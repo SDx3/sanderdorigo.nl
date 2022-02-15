@@ -6,7 +6,7 @@
     <div class="row mb-3">
         <div class="col">
             <h1>{{ .Title }}</h1>
-            <small>Door Sander Dorigo op {{ .Date.Local.Format "02 Jan 2006" }}</small>
+            <small>Geschreven door Sander Dorigo op {{ .Date | time.Format ":date_long" }}</small>
             <p>
                 {{ range .Params.categories }}
                 <span class="badge bg-secondary">{{ . }}</span>
