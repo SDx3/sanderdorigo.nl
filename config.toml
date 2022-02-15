@@ -1,0 +1,59 @@
+baseURL = 'http://example.org/'
+languageCode = 'nl-nl'
+defaultContentLanguage = 'nl'
+title = 'Sander Dorigo'
+theme = "researcher"
+
+
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Sander Dorigo"
+  description = "Persoonlijke website van Sander Dorigo"
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "© Sander Dorigo"
+    url = "https://github.com/SDx3"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/sanderdorigo"
+  [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/sanderdorigo/"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:mail@sanderdorigo.nl"
+
+[permalinks]
+  "/" = "/:filename"
+  "blog" ="/:year/:month/:title/"
+
+[menu]
+  [[menu.main]]
+    name = "Over"
+    url = "/about"
+    weight = 1
+ [[menu.main]]
+   name = "Weblog"
+   url = "/blog"
+   weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = false  # allow raw HTML in markdown files
