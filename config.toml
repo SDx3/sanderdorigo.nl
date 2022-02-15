@@ -56,3 +56,9 @@ googleAnalytics = ""  # add your tracking id
 
 [markup.goldmark.renderer]
   unsafe = false  # allow raw HTML in markdown files
+
+[deployment]
+
+[[deployment.targets]]
+name = "azure"
+URL = "azblob://$web"
