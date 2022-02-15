@@ -21,10 +21,13 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Deploy
+      - name: Build
         run: |
           hugo
-          hugo deploy
-        env:
-          AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
-          AZURE_STORAGE_ACCOUNT: 'sanderdorigonl'
+      - name: Upload
+        uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        with:
+          connection_string: ${{ secrets.AZURE_STORAGE_SAS }}
+          source_dir: public
+          container_name: $web
+          sync: true
