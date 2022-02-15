@@ -15,11 +15,13 @@
         </div>
     </div>
 
+    {{ if .Params.postImage }}
     <div class="row mb-3">
         <div class="col">
             <img class="rounded" style="width:100%; object-fit: none;  max-height:150px;" src="/{{ .Params.postImage }}">
         </div>
     </div>
+    {{ end }}
 
     <div class="row">
         {{ .Content }}
