@@ -30,4 +30,3 @@ jobs:
           source_dir: public
           container_name: $web
           sync: true
-          extra_args: '--content-cache "public, max-age=31536000"'
