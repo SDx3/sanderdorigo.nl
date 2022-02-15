@@ -16,6 +16,8 @@ postImage: images/blog/robot.jpg
 
 Een mooie aanleiding om dit stukje mee te beginnen is het nieuws dat [Google een bedrijf overneemt dat zich specialiseert in kunstmatige intelligentie](http://tweakers.net/nieuws/93918/google-koopt-bedrijf-voor-kunstmatige-intelligentie.html). Hoewel het ze vooral om het talent te doen lijkt te zijn is het een leuk onderwerp om eens over na te denken.
 
+<!--more-->
+
 In boeken en science fiction is kunstmatige intelligentie altijd een soort "black box". Er is een machine, en die kan praten en luisteren en slim antwoord geven, en hoe die machine dan wel niet werkt is een raadsel. Zelfs Isaac Asimov, die aan de wieg stond van wat wij tegenwoordig als "robots" zien kwam niet verder dan een paar technische termen en hier en daar wat referenties naar wiskunde. Ook William Gibson hield het daar een beetje bij. Kunstmatige intelligentie is er gewoon, en de schrijvers zijn vooral bezig met de eventuele gevolgen en spannende verhalen die dat oplevert.
 
 In het echt is dat natuurlijk niet zo. We zijn nog lang niet zo ver.

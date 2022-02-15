@@ -15,6 +15,8 @@ postImage: images/blog/cable.jpg
 
 Het zal niet de eerste keer zijn dat ik over computers schrijf. Als gediplomeerd computer-nerd ben ik nou eenmaal veel te veel met die dingen bezig.
 
+<!--more-->
+
 Het één na leukste om te doen (na "klungelen met computers") is toch wel lezen over computers. Dan bedoel ik niet de vele cursusboeken die er zijn, "Computeren voor Dummies" enzo, maar van die boeken met een semi-filosofische inslag over wat computers nou *zijn* en welke rol ze spelen in onze maatschappij.
 
 **Weizenbaum**

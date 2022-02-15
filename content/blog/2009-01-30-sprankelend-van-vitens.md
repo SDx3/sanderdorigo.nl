@@ -13,6 +13,8 @@ categories:
 
 Vorig jaar kreeg ik een briefje van Vitens. Of ik de watermeterstand door wilde geven. Natuurlijk wilde ik dat wel, want anders gaan zij voor je gokken en betaal je voor drie keer wat je echt gebruikt.
 
+<!--more-->
+
 Op de website van Vitens is een handig invulvakje. Ik vulde al mijn gegevens in en drukte op [OK]. Onmiddellijk kwam de website terug met een nogal sinistere mededeling: "*Uw doorgegeven waterstand is niet wat wij van u verwachtten. Controleer uw meterstand en voer het aantal kubieke meters nogmaals in.*". Maarja, er stond toch echt "219" op de meter. Heus waar meneer de website! Zonder er dus verder over na te denken duwde ik op [Bevestigen].
 
 Een week later had ik een briefje van Vitens in de brievenbus. Naheffing! Vanwege het watergebruik op mijn perceel, of ik even 182 euro wilde overmaken. Ik dacht bij mezelf "*Sander, minder lang douchen!*", en ik trok mijn Random Reader om het bedrag eens even naar de andere kant van het land over te maken.

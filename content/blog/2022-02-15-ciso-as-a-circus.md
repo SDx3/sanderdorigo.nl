@@ -9,6 +9,8 @@ postImage: images/blog/circus.jpg
 
 Geboren uit een spraakverwarring tijdens een Teams meeting (want het was coronatijd), moest ik van de week weer denken aan een *service* die elke security professional misschien welk herkent: "CISO-as-a-Circus".
 
+<!--more-->
+
 Voor veel organisaties is het lastig om het informatiebeveiligingsvak bij te benen. We hebben de ene hack nog niet gehad of de volgende kwetsbaarheid komt voorbij. Het feit dat Nederland inmiddels een heel pak alfabetsoep aan ondersteunende organisaties werkt daar niet aan mee. Iemand zou daar een beslisboompje voor moeten maken. Waar moet ik zijn?
 
 *Anyway*, de eerste stap die veel bedrijven zetten is het aannemen of inhuren van een CISO. Een Corporate Information Security Officer. Belangrijk. Toch zie je dat het niet genoeg is om een iemand binnen te slepen die het wel even gaat fixen. 

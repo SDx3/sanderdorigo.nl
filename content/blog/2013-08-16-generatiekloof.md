@@ -14,6 +14,8 @@ postImage: images/blog/social-media.jpg
 
 Mooi nieuws weer. Voor het luttele bedrag van 11.000 euro kan je veertien dagen op training om meer te leren over: social media. Jawel. Het is een koopje eigenlijk, want je leert ook iets over de *effecten* van social media. Echt hè.
 
+<!--more-->
+
 De oudere generatie begrijpt de jongere niet. Niet echt nieuw. Geen generatie kan iets met zijn kinderen. Zelden kan een puber door één deur met zijn ouders. Vraag het iedereen boven de dertien. Snap jij je ouders? Het antwoord is waarschijnlijk nee. Ook de overheid heeft nog nooit iets van de jeugd begrepen. Hippies, krakers, neo-nazi's of bontkraagjes; ze kunnen er niks mee. Niets werkt. Trapveldjes en straatcoaches, paniekerig organiseren gemeentes en het Rijk achter de feiten aan.
 
 Niemand snapt de jeugd. Dat is van alle tijden. Niet zo gek ook. Denken we eindelijk alles op een rijtje te hebben. Huisje boompje beestje. Komt me daar een nieuwe generatie die dat allemaal nog moet leren, die van die stomme fouten maakt. Fouten die wij allang niet meer maken. Wat moet je dáár nou weer mee? We stoppen er speelgoed en mobiele telefoons in en hopen dat ze ophouden met het doen van domme dingen.

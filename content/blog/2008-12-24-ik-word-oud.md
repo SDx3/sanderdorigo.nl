@@ -13,6 +13,8 @@ categories:
 
 Vanavond vierde ik kerstavond bij mijn moeder. Lekker gegeten. Beetje bijgekletst. Biertje gedronken. Amelie gekeken. Blijft een briljante film, overigens. Aan het eind van de avond, een uur of half elf loop ik richting de bushalte. Een beetje melancholisch sta ik te wachten. Mooie avond.
 
+<!--more-->
+
 Ik stap in, samen met een meisje. 18, hooguit. Ze draagt al haar spullen in haar armen en verklaart, "Tas gescheurd". Terwijl ze rommelt met haar spullen wisselen we wat zinnen. Ze zoekt haar buskaart, en eenmaal gevonden stempelt de chauffeur hem plichtmatig af. Willemsplein, graag.
 
 Wat is een heer, denk ik bij mezelf, als hij haar geen nieuwe tas aanbiedt? Na het kerstcadeautjes kopen vandaag, vond ik mezelf in het bezit van veel te veel plastic tassen. Ik zoek in mijn schoudertas naar de zak van de boekenwinkel. Die moet groot genoeg zijn voor al haar spulletjes. Monter bied ik haar het ding aan. "Dit komt vast van pas.".

@@ -13,6 +13,8 @@ categories:
 
 Zie je wel. Ook ik heb een filosofische inslag. Een paar weken geleden zat ik op de universiteit, te leren voor een pittig tentamen. Een klasgenoot vroeg me: "*Ah, dat en dat, hoe werkt dat nou precies?*". Nadat ik het een beetje uit had gelegd zei hij "*Het onderwerp boeit me bijzonder weinig. Maar als jij het kan uitleggen, dan snap je het.*".
 
+<!--more-->
+
 Gisteravond had ik de radio aanstaan, en in dat programma was een man aan het vertellen over mensen imiteren. Dat je, hoe hard je ook je best doet, Hans van Mierlo nooit perfect na kan doen. Het ging over komedieshows denk ik. Hij zei, dat verschil tussen hoe jij iemand nadoet, en diegene zelf precies definieert wie jij bent.
 
 Hij ging wat aan de haal met dat voorbeeld en zei dat je een bepaalde afstand kan reiken, en een bepaalde afstand kan grijpen. Wat je kan grijpen is altijd iets minder ver dan je kan reiken. Probeer het maar eens. Strek je vingers zover mogelijk uit, raak iets aan dat heel ver van je plaats af is. Probeer vervolgens, zonder je nog verder uit te strekken, dat ding te grijpen. Dat gaat niet lukken.

@@ -14,6 +14,8 @@ categories:
 
 "*Vroeger jongen, deden wij het zonder al die moderne mobieltjes enzo. Toen belden we elkander nog gewoon.*"
 
+<!--more-->
+
 Aldus elke willekeurige senior die ik spreek over telefoons, internet op je mobiel, en wat dies meer zij. Ze vinden het doorgaans niks. Maar het is wel verdomd handig. Zo ondervond ik gisteren, in ieder geval.
 
 Tot vorig jaar een keer had ik een behoorlijk hippe telefoon. Interweb erop, emailen, alles kon. Dat ding ging stuk en nu leen ik de oude van Sjoerd, die [Walter](http://beroepsmopperaar.nl/) daarvoor had, totdat er weer iets tofs uit komt. Bijvoorbeeld de nieuwe iPhone, die waarschijnlijk begin [volgende maand](http://www.macrumors.com/2010/05/06/wwdc-2010-sells-out-in-8-days/) wordt aangekondigd.

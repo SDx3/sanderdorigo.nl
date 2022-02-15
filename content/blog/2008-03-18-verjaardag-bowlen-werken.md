@@ -14,6 +14,8 @@ categories:
 
 Verbazingwekkend hoe snel je gewend bent aan "leven in Finland"... ik heb vrij weinig te vertellen. Oftewel, er gebeurt niet zoveel nieuws meer. Dat is weer niet zo heel gek, want uiteindelijk is het leven hier hetzelfde als in Nederland. Maar dan Fins. En duurder. En kouder.
 
+<!--more-->
+
 Afgelopen zaterdag gaf een van mijn huisgenoten een verjaardagsfeestje. Jusa heet hij, en hij is een beetje gek. Hij praat en hij praat en hij praat en hij praat en hij vertelt dan ook nog eens alles vier keer. Ook dat zijn feestje zaterdag was bijvoorbeeld. De meeste mensen waren er dan ook. Waarschijnlijk is hij langs de deuren gegaan. Hoe dan ook, een feestje. Met taart, en drank, en een liedje zingen. En drank. Kortom, het feestje eindigde in een knallende kater op zondag, en een hele lamme maandag op werk. Uiteraard zijn er ook een boel foto's gemaakt waarvan je achteraf zoiets hebt van "*wow, was ik zo zat?!*". Uiteraard ben ik dan ook wel weer tof genoeg om ze te posten, al kan ik niet alle filmpjes laten zien, omdat Google dat niet ondersteunt. Misschien lukt het me om het op Youtube te zetten, dus stay tuned!
 
 De woensdag voor de verjaardag ben ik wezen bowlen met diezelfde groep mensen. Net als de vorige keer, maar nu heb ik wat meer foto's, namelijk meer dan 0.

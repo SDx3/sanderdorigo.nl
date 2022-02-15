@@ -19,6 +19,8 @@ postImage: images/blog/drive.jpg
 
 Voor de ophef over de onthullingen van Snowden met betrekking tot de NSA hebben veel bomen moeten sterven. Hele kranten werden er over volgeschreven. Wat zeg ik, complete speciale edities! Er kwam zelfs zoveel belastende informatie boven tafel dat velen van ons al vrij snel "NSA-moe" werden.
 
+<!--more-->
+
 Een onderbelicht puntje in de hele discussie rondom al die geheime diensten (ook de AIVD) is een vrij technische. Veel bronnen beweren namelijk dat de NSA heel veel gegevens opslaat in grote geheime databases. Dat begint bij "duizenden terabytes" (wat weer miljoenen gigabytes zijn) tot duizenden petabytes, wat zoveel informatie is dat je je het haast niet kan voorstellen.
 
 Het probleem waar ik de NSA nog wel last van zie hebben is "data-management". Het is namelijk ongelofelijk moeilijk om data te organiseren, vast te houden en doorzoekbaar te maken. Het is een probleem waar ook Google nog niet uit is; waar hele studies aan gewijd zijn (Data Science) en boeken over zijn volgeschreven. Want ga maar na. De meeste mensen lukt het nauwelijks om hun vakantiefoto's te organiseren. Kan jij een specifiek WhatsApp berichtje terug vinden zonder maar gewoon omhoog te scrollen tot je hem terugvindt?

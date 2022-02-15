@@ -14,6 +14,8 @@ categories:
 
 Sinterklaas is er bijna, en Kerst komt eraan. Alhoewel. Overal hangen al kerstlampjes en pepernoten kan je al sinds augustus krijgen. Eigenlijk zijn ze er allang. Ik heb er niet zoveel moeite mee.
 
+<!--more-->
+
 Tot een paar jaar terug had ik dat wel. Maar toen was het ook "in" om tegen de feestdagen te zijn, en al helemaal tegen de commercie ervan. Toen was je pas een bink als je met Kerst en Sinterklaas pontificaal thuis ging zitten internetten, ondertussen luid klagend dat het zo verplicht gezellig was. De ironie is natuurlijk dat mensen dat samen gingen doen, en dat ondertussen hardstikke gezellig vonden. Maar dat moet je maar niet zeggen.
 
 Heden ten dage is het een verplicht nummer om te klagen over Kerst en Sinterklaas. Het gevolg is dat niemand het meer doet. Zo zijn we toch een beetje kuddedieren allemaal. We proberen zo hard niet op elkaar te lijken dat we het toch allemaal doen.

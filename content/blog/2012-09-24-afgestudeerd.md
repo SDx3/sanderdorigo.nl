@@ -13,6 +13,8 @@ categories:
 
 Het stond al een tijdje op de planning om een stukje over mijn afstuderen te schrijven. "Versie één" bijvoorbeeld, schreef ik rond eind augustus, daags na mijn afstudeerpresentatie. Versie twee stond klaar toen ik begin september aan de slag was gegaan bij mijn nieuwe werkgever. Beide stukjes hebben het niet gered.
 
+<!--more-->
+
 Want tja, wat valt er te vertellen? Ik ben klaar, woohoo! Dat is het wel. Al die jaren hard geknokt voor een heus Masterdiploma, en dan heb je hem. Het nieuws moet bij mij nog even doordringen denk ik. Want na bijna tien jaar in de schoolbanken is het wel heel erg "ineens". Die afstudeerpresentatie bijvoorbeeld, daar was ik eigenlijk niet zo zenuwachtig voor. Pas toen de professoren zich terug trokken om mijn cijfer te bepalen begon de spanning een béétje toe te nemen. Eigenlijk wist ik al dat het wel goed zat. Mogen presenteren betekent automatisch een zes of hoger. Dan ga ik liever niet met een zesje naar huis maar het diploma had ik al.
 
 Dat was toch wel een beetje gek. Klaar! Met de tijd die er aan vooraf ging was het een hele lange aanloop voor een heel klein sprongetje. Want hoe vat je tien jaar studeren samen in een half uurtje kletsen? Laat staan vier paragraven tekst op een blogje?

@@ -16,6 +16,8 @@ postImage: images/blog/smart.jpg
 
 Slim leven is superhip. De stappentellers lopen de winkels uit, slimme energiemeters zijn standaard in elke nieuwe woning en als je nog geen Toon in je huis hebt hangen, dan toch minstens een Google Nest? Wie kan nog zonder een Whirlpool-wasmachine die je kan bedienen met je smartphone? Het lijkt wel alsof er geen domme apparaten meer op de markt zijn.
 
+<!--more-->
+
 Een experimentje. Sinds een paar weken heb ik een Google Nest in huis gehaald. 's Nachts de verwarming uitzetten? Wat een nonsens! Dat láát je doen. Door een slimme thermostaat! Bovendien heb ik dat Anna-appje van de reclame gedownload. Daarmee krijgen je "inzicht in je energieverbruik". Gecombineerd met allerlei handige zelfbouw tooltjes om al die spullen uit te lezen kan je een behoorlijk scherp beeld krijgen van je energieverbruik.
 
 Het begon met de Google Nest. Die heb ik in eerste instantie aangeschaft om de verwarming 's nachts, en als we weg zijn uit te zetten. Draait als een malle. Ik sta op, de verwarming slaat aan en hij gaat weer uit tot mijn vriendin opstaat. Scheelt toch weer. De rest van de dag alles op een laag pitje en als ik thuis kom: stoken maar! Dat levert leuke grafieken op:

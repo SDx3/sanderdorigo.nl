@@ -13,6 +13,8 @@ categories:
 
 Al een tijdje verbaas ik me over het volgende verschijnsel. Wat nu in de mode is is namelijk "hippe spullen kopen voor het goede doel". Je koopt iets hips, dat heel duur is, en daarmee help je Afrika, of de strijd tegen aids, of iets anders. Wat er dan ook in is zeg maar.
 
+<!--more-->
+
 Wat ik nou zo raar vind, is dat dit zo ontzettend krom is, maar dat mensen het toch doen. Neem bijvoorbeeld die rode iPod's. Dat werkt zo. Je koopt een iPod, en 10 dollar gaat naar Afrika ofzo. Dat hele rode gedoe is een onderdeel van [(RED)](http://www.joinred.com/), een organisatie die producten rood kleurt om daarmee AIDS te bestrijden.
 
 Maar ik vroeg me wat af. Een dergelijk bedrijf opzetten, met een hele marketingmachine erachter, met contacten met die fabrikanten én contacten in Afrika, moet klauwen met geld kosten. Sterker nog, heel veel klauwen met geld. Zo'n CC betaalsysteem op de website, de modellen die in de rode kleren rondlopen, de advertentiecampagne. Ik heb me laten vertellen (ik ben de bron kwijt) dat het hele geintje 100 miljoen dollar (!) heeft gekost. Een 1 met acht nullen! En tot nu toe is er 25 miljoen binnengekomen, voornamelijk uit donaties. Dat betekent dat er dus nog een gat van 75 miljoen dollar is voordat er ook maar een cent naar de AIDS-bestrijding gaat. Nou, is dat krom of is dat krom?

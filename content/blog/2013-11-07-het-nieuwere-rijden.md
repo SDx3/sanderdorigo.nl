@@ -15,6 +15,8 @@ postImage: images/blog/car.jpg
 
 Als gelukkige bezitter van een lease-wagen heb ik een moderne auto onder mijn bips. Zoals dat gaat bij die dingen is het belangrijk om een zuinige auto uit te kiezen. Hoe minder uitstoot, hoe minder [bijtelling](http://nl.wikipedia.org/wiki/Priv%C3%A9gebruik_auto).
 
+<!--more-->
+
 Fabrikanten spelen daar handig op in door hun auto's zo zuinig mogelijk uit de test te laten komen. De auto wordt zo licht mogelijk gemaakt, de motor wordt kleiner en kleiner, en zelfs tijdens de test wordt gesmokkeld. Radio uit, koplampen uit, airco uit en spiegels ingeklapt. Niemand rijdt zo, maar de auto wordt er "zuinig" van.
 
 Als je vervolgens echt gaat rijden met een 'zuinige' auto merk je al vlug dat-ie lang niet zo zuinig is. Als je gas geeft bijvoorbeeld. Het verbruik schiet omhoog naar 1 op 10 of zelfs 1 op 5 om het gewenste tempo maar vol te houden. Mocht je daadwerkelijk 1 op 27 willen rijden (mijn lease-auto schijnt dat te kunnen) moet je een route over de snelweg zoeken die heuvel af gaat, om vervolgens 83 te rijden. Tja, zo ken ik er nog wel een paar.

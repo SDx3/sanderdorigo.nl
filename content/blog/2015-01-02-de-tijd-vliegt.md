@@ -16,6 +16,8 @@ postImage: images/blog/time.jpg
 
 Wauw! Ik moet heel even meta doen. Sinds mei niets meer geschreven. Nou ja zeg! Ik had me nog voorgenomen om nog in 2014 wat neer te pennen, maar nu het januari is hoef ik niet meer te vertellen wat goede voornemens precies waard zijn.
 
+<!--more-->
+
 Goede voornemens zijn er genoeg. Hardlopen en fitnessen staan bovenaan. Stoppen met roken is "gelukt". Tussen haakjes, want ik heb nu een elektrische sigaret. De vraag is: telt dat als stoppen? Mwoah.
 
 Een ander goed voornemen kwam via mijn zus mijn kant op. Stoppen met Facebook.

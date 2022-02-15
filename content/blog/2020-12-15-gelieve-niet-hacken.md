@@ -11,6 +11,8 @@ postImage: images/blog/coffee.jpg
 
 Het is stil, op het gebied van digitale weerbaarheid. Althans, dat vertelde ik een collega van de week. Stilte voor de storm ben ik bang. Er gebeurt genoeg in het nieuws hoor. Maar als FireEye gehackt wordt en het toegeeft weet je dat het ernstig is. Voor elke Goliath die omvalt, hoeveel Davids zijn er wel niet?
 
+<!--more-->
+
 Dat bedrijven en overheden stil zijn op dit gebied snap ik. Maar ik krijg niet goed naar boven of dit een soort corporate stoerdoenerij is (vooral niet falen) of dat men het echt niet weet. Op zich snap ik wel dat ze hun weerbaarheid (of gebrek daar aan) liefst in stilte oppakken. Maar als het gaat om de weerbaarheid van kritische infrastructuur bijvoorbeeld heb ik het gevoel dat het er slecht voor staat.
 
 ### Legacy

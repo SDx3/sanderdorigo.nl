@@ -10,6 +10,8 @@ postImage: images/blog/helpdesk.jpg
 ---
 Waarom ik "ze" ga verlaten. "We" zouden dit namelijk heel jammer vinden.
 
+<!--more-->
+
 Dit kreeg ik op me af toen ik Interpolis belde om ze te vertellen dat ik echt toch heus helemaal klaar met ze was. Jarenlang was ik, zonder veel problemen bij ze verzekerd voor van alles en nog wat. Tot ik daadwerkelijk iets probeerde te claimen. Toen werden er allemaal gemene polisvoorwaarden tevoorschijn gehaald die de verzekering in kwestie net niet zinloos maakten. Dat overkwam me twee keer, en toen was ik er wel klaar mee.
 
 <!--more-->

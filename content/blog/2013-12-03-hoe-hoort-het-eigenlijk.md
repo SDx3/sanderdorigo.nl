@@ -15,6 +15,8 @@ postImage: images/blog/fancy.jpg
 
 Het is me toch wat. De samenleving vercomputert. Iedereen heeft laptops en tables en smartphones en buzzers en semafoons en wat al niet meer. We zijn zo digitaal bereikbaar dat we de post niet meer lezen. Volgens critici neemt de computer onze maatschappij zelfs over!
 
+<!--more-->
+
 Ten einde raad zijn we maar "Steve Jobs"-scholen begonnen, waar gemeentes hun overtollige subsidie in kunnen storten. De jeugd is zo handig, en zo snel! Die mogen we de vercomputering niet onthouden. Maar het is niet allemaal een vooruitgang.
 
 Ik ben het bijvoorbeeld niet gewend om bij de bakker brood te halen. Mijn moeder wel. "Doe maar een halfje fijn volkoren en een Waldkorn en vier van die tijgerbolletjes". Ofzo. Ik sta bij de bakker: "ehhh, mag ik zo'n bruin brood? Met van die zaadjes er op?". Idem dito bij de slager, maar daar durf ik al niet meer naar binnen. Want die kijkt zo streng. Een plakje worst zit er al helemaal niet meer in.

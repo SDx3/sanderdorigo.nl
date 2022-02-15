@@ -15,6 +15,8 @@ postImage: images/blog/watch.jpg
 
 Een tijdje geleden schreef ik een stukje dat ik (bij gebrek aan beter) "elektrische schapen" noemde. Wat ik me nog afvroeg is het volgende.
 
+<!--more-->
+
 Gereedschap wordt snel een verlengstuk van je lijf. Een mes om te snijden, een schep om te scheppen, of een bijl om te hakken. Hoewel je erg voorzichtig moet zijn met scherpe voorwerpen zijn er opvallend weinig mensen die hun been afhakken of hun vingers er afzagen. Het gebeurt wel, maar niet zo vaak als je zou denken.
 
 Als je de eerste periode met een nieuw stuk gereedschap zonder kleerscheuren bent doorgekomen zal het meestal wel goed gaan. Je hebt je het gereedschap eigen gemaakt en met genoeg oefening wordt het ding je zo eigen als je eigen vingers. Zo zitten we in elkaar. Tijdens autorijlessen bijvoorbeeld zijn de verkeersregels *niet* het belangrijkst. In geval van nood springt de instructeur wel op de rem. Het gaat er om dat je je de auto eigen maakt.

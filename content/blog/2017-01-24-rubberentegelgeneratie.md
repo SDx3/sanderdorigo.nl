@@ -10,9 +10,9 @@ postImage: images/blog/speeltuin.jpg
 ---
 Het is een veel voorkomende klaagzang. De huidige generatie (gemakshalve niet specifieker gemaakt dan dat) wordt lui, laf, onvoorzichtig en soft door het toenemende aantal "rubberen tegels" dat ze tegenkomen.
 
-Niet alleen rubberen tegels zijn heel slecht. Ook fietshelmen, schaatshelmen, _GPS trackers_, handschoenen tijdens het schaatsen, en allerlei andere beschermende maatregelen zijn ook heel slecht voor kinderen.
-
 <!--more-->
+
+Niet alleen rubberen tegels zijn heel slecht. Ook fietshelmen, schaatshelmen, _GPS trackers_, handschoenen tijdens het schaatsen, en allerlei andere beschermende maatregelen zijn ook heel slecht voor kinderen.
 
 Immers, zo roept men, dit hadden wij vroeger niet! En daar word je hard van! Val maar een keer! Leer je grenzen kennen! Leef! 
 
