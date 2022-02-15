@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>{{ .Title }}</title>
+    <title>{{ if not .IsHome }}{{ if .Page.Title }}{{ .Page.Title }}{{ end }} // {{ else }}{{ end }} {{ .Site.Title }}</title>
     <!-- meta info -->
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta name="author" content='{{ .Site.Params.author }}'>
