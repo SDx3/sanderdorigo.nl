@@ -2,7 +2,7 @@
 title = "Sander Dorigo"
 +++
 
-## Welkom!
+# Welkom!
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 

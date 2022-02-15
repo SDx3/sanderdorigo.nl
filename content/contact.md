@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-Stuur me zeker een mailtje of een tweetje of niet. 
+Stuur me zeker een mailtje of een DM of niet. 
 
 * Email: [mail@sanderdorigo.nl](mailto:mail@sanderdorigo.nl)
 
