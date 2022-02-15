@@ -1,0 +1,4 @@
+User-agent: * 
+Allow: /
+
+Sitemap: https://www.sanderdorigo.nl/sitemap.xml

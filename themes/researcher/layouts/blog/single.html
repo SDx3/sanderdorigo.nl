@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<!-- dit is een single blog -->
+
+<div class="container">
+    <div class="row mb-3">
+        <div class="col">
+            <h1>{{ .Title }}</h1>
+            <small>Door Sander Dorigo op {{ .Date.Local.Format "02 Jan 2006" }}</small>
+            <p>
+                {{ range .Params.categories }}
+                <span class="badge bg-secondary">{{ . }}</span>
+                {{ end }}
+            </p>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col">
+            <img class="rounded" style="width:100%; object-fit: none;  max-height:150px;" src="/{{ .Params.postImage }}">
+        </div>
+    </div>
+
+    <div class="row">
+        {{ .Content }}
+    </div>
+    <div class="row mt-3">
+        <div class="col">
+            <em>Sander Dorigo</em>
+        </div>
+    </div>
+</div>
+{{ end }}

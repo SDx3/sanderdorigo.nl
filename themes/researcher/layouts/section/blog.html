@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="row">
+        <div class="col">
+            <!-- content thing speciaal voor blogs -->
+            {{.Content}}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            {{ range .Pages }}
+                <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a> <small class="text-muted">{{ .Date.Local.Format "02 Jan 2006" }}</small></h2>
+                {{ .Summary }}
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
