@@ -1,4 +1,4 @@
-baseURL = 'https://sanderdorigo.nl/'
+baseURL = 'https://www.sanderdorigo.nl/'
 languageCode = 'nl-nl'
 defaultContentLanguage = 'nl'
 title = 'Sander Dorigo'
@@ -56,9 +56,3 @@ googleAnalytics = ""  # add your tracking id
 
 [markup.goldmark.renderer]
   unsafe = false  # allow raw HTML in markdown files
-
-[deployment]
-
-[[deployment.targets]]
-name = "azure"
-URL = "azblob://sanderdorigonl/$web"
