@@ -4,7 +4,7 @@ title = "Sander Dorigo"
 
 # Welkom!
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar.webp" alt="Sander Dorigo">}}
 
 Dit is mijn persoonlijke homepage. Dat ben ik daar rechts.
 
