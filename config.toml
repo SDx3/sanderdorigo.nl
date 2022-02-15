@@ -1,9 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://sanderdorigo.nl/'
 languageCode = 'nl-nl'
 defaultContentLanguage = 'nl'
 title = 'Sander Dorigo'
 theme = "researcher"
-
 
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
