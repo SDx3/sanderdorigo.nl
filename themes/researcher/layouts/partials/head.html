@@ -24,6 +24,10 @@
     <meta property="og:type" content="article" />
     <meta property="og:locale" content="nl_NL" />
 
+    <!-- more meta tags -->
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+
     {{ if .Summary }}
     <meta name="twitter:description" content="{{ .Summary }}">
     <meta property="og:description" content="{{ .Summary }}" />
@@ -31,6 +35,9 @@
     {{ if .Params.postImage }}
     <meta name="twitter:image" content="{{ .Params.postImage | absURL }}">
     <meta property="og:image" content="{{ .Params.postImage | absURL }}" />
+    {{ else }}
+        <meta name="twitter:image" content="{{ .Site.BaseURL }}banner.jpg">
+        <meta property="og:image" content="{{ .Site.BaseURL }}banner.jpg" />
     {{ end }}
 
     <!-- icons -->
