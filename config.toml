@@ -15,7 +15,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "© Sander Dorigo"
-    url = "https://github.com/SDx3"
+    url = "https://github.com/SDx3/sanderdorigo.nl"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
