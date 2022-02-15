@@ -7,7 +7,7 @@ date:   2013-10-29 20:54:19
 categories:
 - "/me"
 featureImage: images/blog/secret-feature.jpg
-postImage: images/blog/images/blog/secret.jpg
+postImage: images/blog/secret.jpg
 ---
 
 Zeg het maar. Wat is het laatste taboe? Seks? Met zweepjes? Iets met billetjes? Seks met iemand van je eigen geslacht? Niet weten of je je fijner voelt als meisje of als jongen? Of allebei? Misschien iets dichter bij huis zoals neuspeuteren, of windjes laten in de auto als er toch niemand naast zit? Er blijft niet veel meer over. Of mijn fantasie is te braaf. Tenzij...
