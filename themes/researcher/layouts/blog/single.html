@@ -29,5 +29,13 @@
             <em>Sander Dorigo</em>
         </div>
     </div>
+    {{ if .Params.credit }}
+    <div class="row mt-3">
+        <div class="col">
+            <a target="_blank" href="{{ .Params.credit }}">Credits voor de foto bovenaan de pagina</a>
+        </div>
+    </div>
+    {{ end }}
+
 </div>
 {{ end }}
