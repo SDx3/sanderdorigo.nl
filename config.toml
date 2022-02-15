@@ -61,4 +61,4 @@ googleAnalytics = ""  # add your tracking id
 
 [[deployment.targets]]
 name = "azure"
-URL = "azblob://$web"
+URL = "azblob://sanderdorigonl/$web"

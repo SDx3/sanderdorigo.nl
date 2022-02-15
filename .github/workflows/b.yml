@@ -22,7 +22,9 @@ jobs:
           extended: true
 
       - name: Deploy
-        run: hugo deploy --maxDeletes -1
+        run: |
+          hugo
+          hugo deploy
         env:
           AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
           AZURE_STORAGE_ACCOUNT: 'sanderdorigonl'
