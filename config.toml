@@ -9,6 +9,8 @@ enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 
 [params]
+  lang='nl'
+  content='NL'
   author = "Sander Dorigo"
   description = "Persoonlijke website van Sander Dorigo"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
