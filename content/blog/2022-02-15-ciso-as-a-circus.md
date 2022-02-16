@@ -19,7 +19,7 @@ Het begint er al mee: één is géén. Zelden kan zo iemand alleen het probleem 
 
 ## Mandaat
 
-Een fout die veel bedrijven maken is de CISO het probleem wel te geven, maar niet het formele mandaat. De nieuwe aanwezigheid wordt niet bekrachtigd in het hoogste MT, en ze worden op pad zonder netwerk in de organisatie. Ze moeten zelf maar uitzoeken wie de product owners zijn. Wie de leidinggevenden zijn waar mensen bang voor zijn. Ze komen er gaandeweg achter wie bij de "conservatieve" fractie horen, en waar verborgen talent al jaren ploetert. Dat wordt ze niet verteld, terwijl een goed MT dat soort dingen heus wel weet. Zorg dus dat je je nieuwe CISO goed beslagen ten ijs stuurt.
+Een fout die veel bedrijven maken is de CISO het probleem wel te geven, maar niet het formele mandaat. De nieuwe aanwezigheid wordt niet bekrachtigd in het hoogste MT, en ze worden op pad gestuurd zonder netwerk in de organisatie. Ze moeten zelf maar uitzoeken wie de product owners zijn. Wie de leidinggevenden zijn waar mensen bang voor zijn. Ze komen er gaandeweg achter wie bij de "conservatieve" fractie horen, en waar verborgen talent al jaren ploetert. Dat wordt ze niet verteld, terwijl een goed MT dat soort dingen heus wel weet. Zorg dus dat je je nieuwe CISO goed beslagen ten ijs stuurt.
 
 ## Goedkoop is duurkoop
 
@@ -27,7 +27,7 @@ Of je een CISO een "budget" moet geven is een heikel punt. Maar als je echt een 
 
 ## De bizznizz
 
-Over het algemeen heeft een CISO de IT-organisatie wel mee. Die weten precies waar de zwakke plekken zitten en kunnen wel wat senior hulp gebruiken in hun gesprekken met de "business", de organisatie zelf. Maar die hebben vaak te lang de touwtjes in handen gehad en dat merk je meteen. Onderhoud en beheer is nergens voor nodig. Beveiliging ook niet, want *"wij zijn immers echt geen gewild doelwit en onze klanten vinden wachtwoorden langer dan vier tekens maar lastig."* Logisch, want geld moet rollen. Vaak is het alleen dankzij diezelfde CISO dat er soms een persbericht wordt voorbereidt waarin je aangeeft "beveiliging heel serieus te nemen" voor de dag die je wist dat zou komen en je daadwerkelijk gehackt wordt.
+Over het algemeen heeft een CISO de IT-organisatie wel mee. Die weten precies waar de zwakke plekken zitten en kunnen wel wat senior hulp gebruiken in hun gesprekken met de "business", de organisatie zelf. Maar die hebben vaak te lang de touwtjes in handen gehad en dat merk je meteen. Onderhoud en beheer is nergens voor nodig. Beveiliging ook niet, want *"wij zijn immers echt geen gewild doelwit en onze klanten vinden wachtwoorden langer dan vier tekens maar lastig."* Logisch, want geld moet rollen. Vaak is het alleen dankzij diezelfde CISO dat er soms een persbericht wordt voorbereid waarin je aangeeft "beveiliging heel serieus te nemen" voor de dag die je wist dat zou komen en je daadwerkelijk gehackt wordt.
 
 ## Jaarlijks
 
