@@ -1,0 +1,64 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>{{ if not .IsHome }}{{ if .Page.Title }}{{ .Page.Title }}{{ end }} // {{ else }}{{ end }} {{ .Site.Title }}</title>
+    <!-- meta info -->
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <meta name="author" content='{{ .Site.Params.author }}'>
+
+    <!-- css etc -->
+    <link rel="stylesheet" href="/css/fonts.css" >
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/fa/css/all.min.css">
+    {{ $style := resources.Get "sass/researcher.scss" | resources.ExecuteAsTemplate "sass/researcher.scss" . | toCSS | minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+    <!-- card info -->
+    <!-- twitter / social media card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@sanderdorigo">
+    <meta name="twitter:creator" content="@sanderdorigo">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="nl_NL" />
+
+    <!-- more meta tags -->
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    {{ if .Summary }}
+    <meta name="twitter:description" content="{{ .Summary }}">
+    <meta property="og:description" content="{{ .Summary }}" />
+    {{ end }}
+    {{ if .Params.bannerImage }}
+        <meta name="twitter:image" content="{{ .Params.bannerImage | absURL }}">
+        <meta property="og:image" content="{{ .Params.bannerImage | absURL }}" />
+    {{ else }}
+        {{ if .Params.postImage }}
+            <meta name="twitter:image" content="{{ .Params.postImage | absURL }}">
+            <meta property="og:image" content="{{ .Params.postImage | absURL }}" />
+        {{ else }}
+            <meta name="twitter:image" content="{{ .Site.BaseURL }}banner.jpg">
+            <meta property="og:image" content="{{ .Site.BaseURL }}banner.jpg" />
+        {{ end }}
+    {{ end }}
+
+    <!-- icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    {{ with .OutputFormats.Get "rss" -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    {{ if not .Site.IsServer }}
+        {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+</head>

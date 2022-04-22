@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="row">
+        <div class="col">
+            <!-- content thing speciaal voor blogs -->
+            {{.Content}}
+            <p>
+                <hr />
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            {{ range .Pages.GroupByDate "2006" }}
+                <h2>{{ .Key }}</h2>
+            <div class="ps-3">
+                    {{ range .Pages }}
+                    <article>
+                    <h3>
+                        <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+                        </h3>
+                        <time class="text-muted" datetime="{{ .Date.Format "2006-01-02 03:04:05" }}">{{ .Date | time.Format ":date_long" }}</time>
+                        <div>{{ .Summary }}</div>
+                    </article>
+                    {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

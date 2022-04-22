@@ -1,0 +1,4 @@
+Contact: mailto:mail@sanderdorigo.nl
+Expires: 2023-01-01T00:00:00.000Z
+Preferred-Languages: en, nl
+Canonical: https://www.sanderdorigo.nl/.well-known/security.txt

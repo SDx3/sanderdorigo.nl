@@ -1,0 +1,36 @@
+{{ define "main" }}
+<!-- Main -->
+<div class="container">
+    {{ $.Scratch.Set "tags" .Data.Terms.Alphabetical }}
+    <h1>{{ .Data.Plural }}</h1>
+    <div class="row">
+        <div class="col">
+            <p>
+                Hieronder vind je alle blog posts, artikelen en tweets uit {{ .Title }}.
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="ps-3">
+                <ul>
+                    {{ $data := .Data }}
+                    {{ $months := dict "01" "januari" "02" "februari" "03" "maart" "04" "april" "05" "mei" "06" "juni" "07" "juli" "08" "augustus" "09" "september" "10" "oktober" "11" "november" "12" "december" }}
+                    {{ range $key, $value := $.Scratch.Get "tags" }}
+                    <li>
+                        {{ if ne $value.Name "" }}
+                            {{ $month := index $months $value.Name }}
+                            <a href="{{"/" | relURL}}{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $month }}</a>
+                            ({{ $value.Count }} item{{ if ne $value.Count 1 }}s{{end}})
+                        {{ else }}
+                            Uncategorized
+                            ({{ $value.Count }} item{{ if ne $value.Count 1 }}s{{end}})
+                        {{ end }}
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

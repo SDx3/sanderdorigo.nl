@@ -1,0 +1,21 @@
+{{ define "main" }}
+<!-- Main -->
+<div class="container">
+    {{ $months := dict "01" "januari" "02" "februari" "03" "maart" "04" "april" "05" "mei" "06" "juni" "07" "juli" "08" "augustus" "09" "september" "10" "oktober" "11" "november" "12" "december" }}
+
+    <h1>{{ index $months .Title }} {{ .Section }}</h1>
+    <div class="row">
+        <div class="col">
+            <p>
+                Hieronder vind je alle blog posts, artikelen en tweets uit {{ index $months .Title }} {{ .Section }}.
+            </p>
+        </div>
+    </div>
+    <ul>
+        {{ range .Pages }}
+            {{ partial "stream-entry" . }}
+        {{ end }}
+    </ul>
+</div>
+
+{{ end }}
