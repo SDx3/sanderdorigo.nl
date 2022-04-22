@@ -4,6 +4,14 @@
             <div class="card-body">
                 {{ .Content }}
             </div>
+            <div class="card-footer text-muted">
+
+                {{ range .Params.domains }}
+                {{ $term := . }}
+                <span class="badge bg-light">
+                   <a class="text-black" href="{{ "/domains/" | relLangURL }}{{ . | urlize }}">{{ $term }}</a></span>
+                {{ end }}
+            </div>
         </div>
     {{ else if eq .Params.source "Blog" }}
     <div class="card mb-2">
@@ -39,8 +47,13 @@
                 {{ .Content }}
             </p>
         </div>
-        {{ if .Params.categories }}
+        {{ if or (.Params.categories) (.Params.domains) }}
         <div class="card-footer text-muted">
+            {{ range .Params.domains }}
+            {{ $term := . }}
+            <span class="badge bg-light">
+                   <a class="text-black" href="{{ "/domains/" | relLangURL }}{{ . | urlize }}">{{ $term }}</a></span>
+            {{ end }}
             {{ range .Params.categories }}
             {{ $term := . }}
             <span class="badge bg-light">

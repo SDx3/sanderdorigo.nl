@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container">
+    <h1>Domein "{{ .Title }}"</h1>
+    <div class="row">
+        <div class="col">
+            <p>
+                Hieronder vind je alle blog posts, artikelen en tweets onder domein "{{ .Title }}".
+            <hr />
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            {{ range .Pages.GroupByDate "2006" }}
+            <h2>{{ .Key }}</h2>
+            <div class="ps-3">
+                {{ range .Pages }}
+                    {{ partial "stream-entry" . }}
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
