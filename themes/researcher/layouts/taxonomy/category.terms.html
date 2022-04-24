@@ -8,7 +8,7 @@
                 noemen wil).
             </p>
             <p>
-                Alle categorieën met meer dan één entry staan in de <em>tagcloud</em>. Daaronder een lijst met
+                Alle categorieën met meerdere entries staan in de <em>tagcloud</em>. Daaronder een lijst met
                 <em>alle</em> categorieën.
             </p>
         </div>
@@ -18,8 +18,8 @@
             <h2>Tagcloud</h2>
             <div class="tagcloud">
                 {{ if ne (len $.Site.Taxonomies.categories) 0 }}
-                {{ $largestFontSize := 1.6 }}
-                {{ $smallestFontSize := 1.0 }}
+                {{ $largestFontSize := 1.3 }}
+                {{ $smallestFontSize := 0.9 }}
                 {{ $fontSpread := sub $largestFontSize $smallestFontSize }}
                 {{ $max := add (len (index $.Site.Taxonomies.categories.ByCount 0).Pages) 1 }}
                 {{ $min := len (index $.Site.Taxonomies.categories.ByCount.Reverse 0).Pages }}
@@ -30,7 +30,7 @@
                 {{ $currentFontSize := (add $smallestFontSize (mul (sub $tagCount $min) $fontStep) ) }}
                 {{ $weigth := div (sub (math.Log $tagCount) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
                 {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weigth)) }}
-                {{ if gt $tagCount 1 }}
+                {{ if gt $tagCount 4 }}
                 <a href="{{ "/categories/" | relURL }}{{ $name | urlize }}"
                 class="tagcloud-item" style="font-size: {{ $currentFontSize }}rem;">
                 {{ $name }}</a><span style="font-size: {{ $currentFontSize }}rem;"><sup>{{ $tagCount }}</sup></span>
