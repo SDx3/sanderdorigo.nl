@@ -13,6 +13,5 @@ Stuur me zeker een mailtje of een DM of niet.
 
 1. [Twitter](https://twitter.com/SanderDorigo)
 2. [LinkedIn](https://www.linkedin.com/in/sanderdorigo/)
-3. [Instagram](https://www.instagram.com/sander.dorigo/)
 4. [Polywork](https://www.polywork.com/sdx) (hip!)
 5. [GitHub](https://github.com/SDx3/) (nerd!)
