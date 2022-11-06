@@ -12,3 +12,5 @@ Gave site hè? Het voelt een beetje retro. Zeker met dat lettertype. Maar een ho
 Ik wil zelfs weer gaan bloggen. Dat is helemaal 1999. Met je Hyves.
 
 Nou, geniet er van, en mailen mag altijd (haha mailen wat een opa)
+
+<a style="display: none;" rel="me" href="https://mastodon.coffee/@sander">Mastodon</a>

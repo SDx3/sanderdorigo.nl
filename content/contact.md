@@ -11,7 +11,7 @@ Stuur me zeker een mailtje of een DM of niet.
 
 ## Social media
 
-1. [Twitter](https://twitter.com/SanderDorigo)
+1. <a rel="me" href="https://mastodon.coffee/@sander">Mastodon</a>
 2. [LinkedIn](https://www.linkedin.com/in/sanderdorigo/)
 4. [Polywork](https://www.polywork.com/sdx) (hip!)
 5. [GitHub](https://github.com/SDx3/) (nerd!)
