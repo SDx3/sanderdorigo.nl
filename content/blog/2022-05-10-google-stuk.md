@@ -36,6 +36,6 @@ Zoek je informatie over planten? Je huishouden? "Wij van WC-eend" is er niets bi
 
 Uiteraard is hier nog niets gezegd over alle twijfelachtige reclames die ze toch al hadden. BN'ers en Bitcoins, het geheim dat banken niet willen dat je weet, en zo val je 40 kilo af in een week. Gaap. 
 
-Je kan je natuurlijk afvragen of de natuur van het internet aan het veranderen is. Er zijn meer mensen online, meer reclame meer geld.. En al die kleine blogjes en websites zijn inmiddels allemaal Facebookpagina's en Twitteraccounts. Misschien verlang ik wel naar een internet dat allang niet meer bestaat. Die jongens van Alphabet willen ook gewoon geld verdienen natuurlijk.
+Je kan je natuurlijk afvragen of de natuur van het internet aan het veranderen is. Er zijn meer mensen online, meer reclame, meer geld.. En al die kleine blogjes en websites zijn inmiddels allemaal Facebookpagina's en Twitteraccounts. Misschien wil ik wel een internet dat allang niet meer bestaat. Die jongens van Alphabet willen ook gewoon muntjes verdienen natuurlijk.
 
 Toch verlang ik wel een beetje naar de dag dat een zoekmachine daar dwars doorheen leert prikken en mij gewoon weer het kleine internet van vroeger teruggeeft.  
