@@ -46,9 +46,9 @@ math = false          # enable KaTeX (https://katex.org/) globally
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/sanderdorigo"
+    icon = "fab fa-mastodon"
+    title = "Mastodon"
+    url = "https://mastodon.coffee/@sander"
   [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "LinkedIn"

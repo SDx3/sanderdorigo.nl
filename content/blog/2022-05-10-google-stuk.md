@@ -10,6 +10,8 @@ categories:
 - Social media
 - Nieuws
 - internet
+credit: https://unsplash.com/photos/HVYepJYeHdQ
+bannerImage: images/blog/arm-banner.jpg
 ---
 
 Het is officieel. Google is stuk. De zoekmachine van weleer, die de mooiste pareltjes van het internet wist te vinden, is niet meer. 
@@ -22,10 +24,7 @@ Vandaag de dag is specialistische kennis over bijvoorbeeld planten, computers of
 
 Zoeken op Google is bovendien een staande uitnodiging om geprofileerd te worden op je zoektermen, of je nou wel of niet incognito surft.
 
-![Callcenter](/images/blog/arm.jpg)
-
-<small style="color:#999">Photo by <a href="https://unsplash.com/es/@frdx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fredrick Tendong</a> on <a href="https://unsplash.com/photos/HVYepJYeHdQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
-
+![Callcenter](/images/blog/arm.jpg 'Photo by Fredrick Tendong on Unsplash')
 
 Ze lijken bij Google Search te onderschatten hoeveel mensen zich dagelijks bezig houden met het foppen van Google. Als je een redelijk populaire post schrijft op Medium, wordt deze binnen de kortste keren honderden keren gekopieerd. Fanatieke "programmeurs" schrijven duizenden blogposts die een regelrechte kopie zijn van de handleiding.
 
@@ -33,7 +32,7 @@ Dit geldt ook voor specialistische kennis. Het was ooit één webwinkel die info
 
 Zoek je informatie over planten? Je huishouden? "Wij van WC-eend" is er niets bij; wat moet je met schoonmaakadvies van de website van HG? Waarom moet een beddenfabrikant uitleggen wat een lekker matras is?
 
-(plaatje)
+![Mmmmmm](/images/blog/think.png)
 
 Uiteraard is hier nog niets gezegd over alle twijfelachtige reclames die ze toch al hadden. BN'ers en Bitcoins, het geheim dat banken niet willen dat je weet, en zo val je 40 kilo af in een week. Gaap. 
 
