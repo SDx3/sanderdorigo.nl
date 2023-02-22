@@ -4,6 +4,10 @@ title: "Niet iedereen is blij met aandacht voor cybersecurity"
 author: Sander Dorigo
 date: 2023-02-25
 2023: "02"
+source: Blog
+categories:
+- "self"
+- work
 credit: https://unsplash.com/photos/esGjBcmT6TY
 postImage: images/blog/brandweer.jpg
 bannerImage: images/blog/brandweer-banner.jpg
