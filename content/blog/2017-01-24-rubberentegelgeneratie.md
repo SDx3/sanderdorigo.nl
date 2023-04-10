@@ -8,6 +8,7 @@ source: Blog
 categories:
 - "self"
 postImage: images/blog/speeltuin.jpg
+credit: https://unsplash.com/photos/O1xcUhEdPLU
 ---
 Het is een veel voorkomende klaagzang. De huidige generatie (gemakshalve niet specifieker gemaakt dan dat) wordt lui, laf, onvoorzichtig en soft door het toenemende aantal "rubberen tegels" dat ze tegenkomen.
 

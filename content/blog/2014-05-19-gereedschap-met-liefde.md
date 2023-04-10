@@ -8,6 +8,7 @@ date: 2014-05-19 10:44:45
 categories:
 - "self"
 postImage: images/blog/watch.jpg
+credit: https://unsplash.com/photos/kFuIdETXrdc
 ---
 
 Een tijdje geleden schreef ik een stukje dat ik (bij gebrek aan beter) "elektrische schapen" noemde. Wat ik me nog afvroeg is het volgende.

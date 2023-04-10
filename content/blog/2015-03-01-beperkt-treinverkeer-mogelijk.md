@@ -9,6 +9,7 @@ categories:
 - "self"
 - "Internet"
 postImage: images/blog/train.jpg
+credit: https://www.ns.nl
 ---
 
 Misschien herinner je je [de nieuwsberichten](http://www.theguardian.com/technology/2015/feb/27/samsung-voice-recording-smart-tv-breach-privacy-law-campaigners-claim) nog dat Samsung-televisies je zouden "bespioneren". De zogenaamde "smart"-functies zoals Netflix en spraakcommando's zouden allemaal terug naar Samsung worden gesluisd. Paranoide internetters begonnen al te protesteren en Samsung ontkende enige betrokkenheid bij zulke vuige streken. Het was allemaal uit liefde, aldus de Koreaanse fabrikant.

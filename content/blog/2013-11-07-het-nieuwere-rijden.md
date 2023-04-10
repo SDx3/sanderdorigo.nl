@@ -8,6 +8,7 @@ source: Blog
 categories:
 - "self"
 postImage: images/blog/car.jpg
+credit: https://www.mercedes-benz.com/en/innovation/concept-cars/
 ---
 
 Als gelukkige bezitter van een lease-wagen heb ik een moderne auto onder mijn bips. Zoals dat gaat bij die dingen is het belangrijk om een zuinige auto uit te kiezen. Hoe minder uitstoot, hoe minder [bijtelling](http://nl.wikipedia.org/wiki/Priv%C3%A9gebruik_auto).

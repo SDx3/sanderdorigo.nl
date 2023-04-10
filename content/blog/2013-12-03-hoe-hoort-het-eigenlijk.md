@@ -8,6 +8,7 @@ date: 2013-12-03 10:42:05
 categories:
 - "self"
 postImage: images/blog/fancy.jpg
+credit: https://unsplash.com/photos/0hAdietsUrE
 ---
 
 Het is me toch wat. De samenleving vercomputert. Iedereen heeft laptops en tables en smartphones en buzzers en semafoons en wat al niet meer. We zijn zo digitaal bereikbaar dat we de post niet meer lezen. Volgens critici neemt de computer onze maatschappij zelfs over!

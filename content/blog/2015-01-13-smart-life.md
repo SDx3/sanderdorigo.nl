@@ -8,6 +8,7 @@ date: 2015-01-13 17:38:56
 categories:
 - "self"
 postImage: images/blog/smart.jpg
+credit: https://unsplash.com/photos/k_-KlaENC-Q
 ---
 
 

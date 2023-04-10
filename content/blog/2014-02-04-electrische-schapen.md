@@ -8,6 +8,7 @@ source: Blog
 categories:
 - "self"
 postImage: images/blog/cable.jpg
+credit: https://unsplash.com/photos/zFYUsLk_50Y
 ---
 
 Het zal niet de eerste keer zijn dat ik over computers schrijf. Als gediplomeerd computer-nerd ben ik nou eenmaal veel te veel met die dingen bezig.

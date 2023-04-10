@@ -8,6 +8,7 @@ date: 2015-01-02 19:36:09
 categories:
 - "self"
 postImage: images/blog/time.jpg
+credit: https://unsplash.com/photos/FlHdnPO6dlw
 ---
 
 Wauw! Ik moet heel even meta doen. Sinds mei niets meer geschreven. Nou ja zeg! Ik had me nog voorgenomen om nog in 2014 wat neer te pennen, maar nu het januari is hoef ik niet meer te vertellen wat goede voornemens precies waard zijn.
