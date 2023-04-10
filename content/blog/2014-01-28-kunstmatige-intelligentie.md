@@ -8,6 +8,8 @@ source: Blog
 categories:
 - "self"
 postImage: images/blog/robot.jpg
+credit: https://unsplash.com/photos/FTfjMijq-Ws
+  
 ---
 
 
