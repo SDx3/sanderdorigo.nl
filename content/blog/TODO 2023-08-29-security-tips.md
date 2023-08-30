@@ -1,5 +1,5 @@
 ---
-title: "Iets over security tips"
+title: "Waarom goedbedoelde security-tips niet werken"
 author: Sander Dorigo
 date: 2021-01-01
 draft: true
