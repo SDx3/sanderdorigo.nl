@@ -1,7 +1,7 @@
 ---
 title: "Waarom goedbedoelde security-tips niet werken"
 author: Sander Dorigo
-date: 2021-01-01
+date: 2023-09-12
 draft: true
 categories:
 - "self"
@@ -10,13 +10,20 @@ featureImage: images/blog/coffee-feature.jpg
 postImage: images/blog/coffee.jpg
 ---
 
-Wat is nou het probleem met security tips? Je kent ze vast wel. Hele overheidscampagnes rammen deze tips bij mensen door de strot. En ze werken niet. No shit. Sterker nog, ze maken het ERGER.
+Iedereen kent dit rijtje. Security tips. Van de Margriet, tot de Consumentengids tot [jouw bank](https://www.veiligbankieren.nl/actueel/), ze geven allemaal deze tips. Ze werken niet. Voor geen meter. Sterker nog, ze maken het probleem alleen maar *groter*. Maar waarom?
+
 
 1. Gij zult niet klikken op wazige links
 2. Gij zult geen spam openen
 3. Gij zult niet inloggen op de verkeerde site
 
-Iedereen kent en verspreidt deze tips. Mijn LinkedIn staat er vol mee. Maar we hadden het niet slechter kunnen bedenken. We vertellen automobilisten toch ook niet "ontwijk bomen"? Onze kinderen fietsen toch ook niet naar school met de tip "laat je niet aanrijden"?
+Mijn LinkedIn staat hier vol mee. We hadden het niet slechter kunnen bedenken. Ga maar na, jouw rij-instructeur vertelde je toch ook niet "ontwijk de  bomen maar"? Onze kinderen fietsen toch ook niet naar school met de tip "laat je niet aanrijden"? Waarom doen we dat dan wel met security-advies?
+
+
+
+**Zoveel uitzonderingen**
+
+
 
 Want: er zijn te veel uitzonderingen, het internet is te complex.
 Want: er zijn teveel tegenstrijdigheden, soms moet je wel klikken of komt Rijnstate mail in de spam terecht.
