@@ -39,7 +39,7 @@ De huidige trend richt zich op "large language models", waarbij je feitelijk een
 
 En die doodlopende weg blijkt uit meer AI projecten. De rijdende auto bijvoorbeeld. Honderden miljarden zijn er ingepompt, en de auto's van Tesla en Waymo kunnen nog geen kruising oversteken zonder mensen aan te rijden. Allemaal AI, allemaal faal. 
 
-### Conclusie
+### Dus...
 
 Ik ben nu 35+ en zoals mijn leeftijd betaamd, vind ik alle nieuwe technologie eng en stom. En dat is niet eerlijk. De "nieuwe" technologie die onze industrie er uit perst is niet alleen eng en stom, ze is ook maatschappijontwrichtend, kansenongelijkheidvergrotend en milieuonvriendelijk. Dus er zit wel degelijk een soort verbetering in. Zulke moeilijke woorden hoorde je vroeger niet van Chriet Titulaer.
 
