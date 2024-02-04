@@ -35,7 +35,7 @@ De benodigde "quantumbits", waarvan ze er inmiddels een paar honderd op een chip
 
 Het is een beetje een verzamelnaam voor allerlei slimme en domme dingen. Ik bijvoorbeeld, ben erg blij dat ik in mijn fotoalbum kan zoeken naar "groene auto", en dat ik dan allemaal foto's krijg van groene auto's. Is leuk. Maar meer dan dat gaan we er niet mee versieren voorlopig.
 
-De huidige trend richt zich op "large language models", waarbij je feitelijk een ongelofelijke hoeveelheid tekst door mensen laat prepareren, en dan in een slimme computer propt. Door de grote berg tekst lijkt ChatGPT slim. Maar dat blijkt omgekeerd evenredig aan hoe slim je zelf bent. Op brute kracht kan ChatGPT er slimme dingen uitpersen, maar er zit geen logica in, geen geheugen of redenatie. Plat stampen op tekst.
+De huidige trend richt zich op "large language models", waarbij je feitelijk een ongelofelijke hoeveelheid tekst door mensen laat prepareren, en dan in een slimme computer propt. Door de grote berg tekst lijkt ChatGPT slim. Maar dat blijkt omgekeerd evenredig aan hoe slim je zelf bent. Op brute kracht kan ChatGPT er grappige dingen uitpersen, maar er zit geen logica in, geen geheugen of redenatie. AI denkt nog niet na, ze redeneert niet, er is geen logica of creativiteit. 
 
 En die doodlopende weg blijkt uit meer AI projecten. De rijdende auto bijvoorbeeld. Honderden miljarden zijn er ingepompt, en de auto's van Tesla en Waymo kunnen nog geen kruising oversteken zonder mensen aan te rijden. Allemaal AI, allemaal faal. 
 
