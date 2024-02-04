@@ -41,6 +41,6 @@ Die doodlopende weg blijkt uit meer AI projecten. De rijdende auto bijvoorbeeld.
 
 ### Dus...
 
-Ik ben nu 35+ en zoals mijn leeftijd betaamd, vind ik alle nieuwe technologie eng en stom. Dat is niet eerlijk. De "nieuwe" technologie die onze industrie er uit perst is niet alleen eng en stom, ze is ook maatschappijontwrichtend, kansenongelijkheidvergrotend en milieuonvriendelijk. Dus er zit wel degelijk een soort verbetering in. Zulke moeilijke woorden hoorde je vroeger niet van Chriet Titulaer.
+Ik ben nu 35+ en zoals mijn leeftijd betaamt, vind ik alle nieuwe technologie eng en stom. Dat is niet eerlijk. De "nieuwe" technologie die onze industrie er uit perst is niet alleen eng en stom, ze is ook maatschappijontwrichtend, kansenongelijkheidvergrotend en milieuonvriendelijk. Dus er zit wel degelijk een soort verbetering in. Zulke moeilijke woorden hoorde je vroeger niet van Chriet Titulaer.
 
 Graag ben ik een ouwe chagrijnige lul die medio 2040 helemaal ongelijk blijkt te hebben. Terwijl mijn quantum-resistant zelfrijdende auto boodschappen doet en ik een praatje maak met mijn AI-therapeut, lees ik deze blog nog eens terug met het schaamrood op mijn kaken. Dat zou fijn zijn. Maar de kans is groter dat ik ergens in een loopgraaf Russische soldaten probeer dood te schieten terwijl Jef Bezos zich nog eens een wijntje inschenkt, ergens in een ondergrondse bunker.
