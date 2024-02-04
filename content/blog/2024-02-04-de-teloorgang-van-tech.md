@@ -2,7 +2,7 @@
 title: "De teloorgang van tech"
 author: Sander Dorigo
 date: 2024-02-04
-draft: true
+draft: false
 categories:
 - "self"
 - Internet
