@@ -2,3 +2,10 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.sanderdorigo.nl/sitemap.xml
+
+
+User-agent: GPTbot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
