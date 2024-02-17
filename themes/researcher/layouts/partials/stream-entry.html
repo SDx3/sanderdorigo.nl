@@ -36,6 +36,33 @@
         {{ end }}
 
     </div>
+    {{ else if eq .Params.source "Spotify" }}
+    <div class="card mb-2 music_block spotify">
+        <div class="card-header">
+            <h4 class="card-title"><a href="{{ .Params.src_url }}">{{ .Title }}</a></h4>
+        </div>
+        <div class="card-body">
+            <p class="card-text">
+                Verzameld via {{ .Params.source }} op <time class="text-muted" datetime="{{ .Date.Format "2006-01-02 03:04:05" }}">{{ .Date | time.Format ":date_long" }} om {{ .Date | time.Format ":time_short" }}</time>.
+                {{ .Content }}
+            </p>
+        </div>
+        {{ if or (.Params.categories) (.Params.domains) }}
+        <div class="card-footer text-muted">
+            {{ range .Params.domains }}
+            {{ $term := . }}
+            <span class="badge bg-light">
+                   <a class="text-black" href="{{ "/domains/" | relLangURL }}{{ . | urlize }}">{{ $term }}</a></span>
+            {{ end }}
+            {{ range .Params.categories }}
+            {{ $term := . }}
+            <span class="badge bg-light">
+                   <a class="text-black" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $term }}</a></span>
+            {{ end }}
+        </div>
+        {{ end }}
+
+    </div>
     {{ else }}
     <div class="card mb-2">
         <div class="card-header">
