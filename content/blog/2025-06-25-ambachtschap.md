@@ -2,8 +2,8 @@
 draft: false
 title: "Ambachtelijke ijver, over AI en handwerk"
 author: Sander Dorigo
-date: 2025-06-25
-2025: "06"
+date: 2025-07-06
+2025: "07"
 source: Blog
 categories:
 - "self"
