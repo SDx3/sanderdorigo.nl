@@ -1,4 +1,5 @@
 Contact: mailto:mail@sanderdorigo.nl
-Expires: 2028-01-01T00:00:00.000Z
+Expires: 2026-01-01T00:00:00.000Z
 Preferred-Languages: en, nl
 Canonical: https://www.sanderdorigo.nl/.well-known/security.txt
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/8721E2F30129A7D61E19E72085DD893C946AF701
