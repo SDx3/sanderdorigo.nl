@@ -11,6 +11,7 @@ Stuur me zeker een mailtje of een DM of niet.
 
 ## Social media
 
-1. <a rel="me" href="https://mastodon.coffee/@sander">Mastodon</a>
-2. [LinkedIn](https://www.linkedin.com/in/sanderdorigo/)
-5. [GitHub](https://github.com/SDx3/) (nerd!)
+1. <a rel="me" href="https://mastodon.coffee/@sander" title="Sander op Mastodon">Mastodon</a>
+2. <a rel="me" href="https://bsky.app/profile/sanderdorigo.nl" title="Sander op Bluesky">Bluesky</a>
+3. [LinkedIn](https://www.linkedin.com/in/sanderdorigo/)
+4. [GitHub](https://github.com/SDx3/)
