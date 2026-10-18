@@ -16,7 +16,7 @@
                     {{ $len := (len .Pages) }}
                     {{ range .Pages }}
                         {{ $.Scratch.Set "index" (add ($.Scratch.Get "index") 1) }}
-                        {{ if gt .Date.Year 2021}}
+                        {{ if gt .Date.Year 2024 }}
                             {{ partial "stream-entry" . }}
                         {{ else }}
                             {{ if eq ($.Scratch.Get "index") 1 }}

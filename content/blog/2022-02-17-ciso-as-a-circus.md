@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "CISO-as-a-Circus"
 date: 2022-02-17
 draft: false
