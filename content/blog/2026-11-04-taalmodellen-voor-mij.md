@@ -44,10 +44,10 @@ Plus, je moet je afvragen of het daarna nog wel jouw woorden kunnen zijn. We ken
 
 Maar nu komt er een punt dat de AI zijn woorden dusdanig specifiek *kan* kiezen dat er uit af te leiden valt dat het om AI gaat. Tegelijkertijd denk jij dat je een authentieke mail hebt geschreven over het nieuwe IT-project van de organisatie. Dat gaat niet samen. Jouw chique woorden komen niet uit jouw slimme prompt, maar uit een verborgen algoritme dat je verraadt waar je bij staat. 
 
-Spannender vind ik het dat het daar niet stopt. Ook daar zijn genoeg voorbeelden van. De AI van ChatGPT is wel in staat om bugs te vinden in Linux. Een computerspelletje uit elkaar halen om te zien hoe het werkt? Dat mag niet meer. "Teken een man die de Nederlandse vlag verbrandt." Mag gewoon. "OK en nu die van Israel." Dat is verboden.
+Spannender vind ik het dat het daar niet stopt. Ook daar zijn genoeg voorbeelden van. De AI van ChatGPT is wel in staat om bugs te vinden in Linux. Een computerspelletje uit elkaar halen om te zien hoe het werkt? Dat mag niet meer. "Teken een man die de Nederlandse vlag verbrandt." Mag gewoon. "OK en nu die van Israël." Dat is verboden.
 
-Dan volgt de vraag: als AI jou niet wilt laten zeggen wat je denkt, kan je het zelf dan nog onder woorden brengen?
+Dan volgt de vraag: als AI jou niet wil laten zeggen wat je denkt, kan je het zelf dan nog onder woorden brengen?
 
-![Man verbrandt géén Israelische vlag.](/images/blog/burning-flag.png)
+![Man verbrandt géén Israëlische vlag.](/images/blog/burning-flag.png)
 
-*Een Nederlandse vlag is OK. Israel? Dat mag niet.*
+*Een Nederlandse vlag is OK. Israël? Dat mag niet.*
