@@ -14,7 +14,7 @@ categories:
 
 ---
 
-Vandaag las ik dat alle taalmodellen watermerken gaan toevoegen aan hun teksten. Daarmee maken ze het "onzichtbare" zichtbaar: wie schrijft met AI en wie kan het nog zelf?
+Recent [las ik](https://nos.nl/artikel/2633893-ook-chatgpt-teksten-krijgen-onzichtbaar-watermerk) dat alle taalmodellen watermerken gaan toevoegen aan hun teksten. Daarmee maken ze het "onzichtbare" zichtbaar: wie schrijft met AI en wie kan het nog zelf?
 
 <!--more-->
 
